@@ -1,7 +1,18 @@
 <h1 align="center">Henry Martinez</h1>
 <div align="center" >
-  <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="bear-gif" width="auto" height="250"/>
+  
 </div>
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="robot-gif" width="auto" height="250"/></td>
+    <td valign="top">
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealHenryMartinez&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+  </tr>
+</table>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/henry-martinez-66a1a5245/">
@@ -20,9 +31,7 @@
 
 ## :technologist: About Myself
 ### Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="auto" overflow="hidden" height="300"/>
-</div>
+
 
 - :telescope: Love working and ontributing to frontend and backend for building web applications.
 
@@ -35,7 +44,7 @@
 <a href="https://www.instagram.com/realhenrykmartinez/">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  
+
  ### :hammer_and_wrench: Languages and Tools I specialize in:
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -50,8 +59,13 @@
   
 </div>
 
-### :fire: Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RealHenryMartinez&theme=dark&background=000000)](https://git.io/streak-stats)
-
-### :eyes: Most Used Technologies
+<table>
+  <tr>
+    <td valign="top"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="auto" overflow="hidden" height="300"/></td>
+   <h3>Most Used Technologies</h3>
+    <td valign="top">
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealHenryMartinez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
