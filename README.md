@@ -15,7 +15,7 @@
 </table>
 
 <div id="badges" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/henry-martinez-66a1a5245/">
+  <a href="https://www.linkedin.com/in/henry-martinez-66a1a5245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@henrymartinez7462/featured">
