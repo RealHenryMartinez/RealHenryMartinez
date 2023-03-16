@@ -33,7 +33,7 @@
 ### Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
 
 
-- :telescope: Love working and ontributing to frontend and backend for building web applications.
+- :telescope: Love working and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring more advanced Frontend and UI development.
 
