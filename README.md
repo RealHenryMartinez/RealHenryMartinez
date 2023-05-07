@@ -56,13 +56,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40" />
 </div>
 
 <table>
   <tr>
     <td valign="top"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="auto" overflow="hidden" height="300"/></td>
-   <h3>Most Used Technologies</h3>
+   <h3>Technologies used mostly</h3>
     <td valign="top">
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealHenryMartinez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
